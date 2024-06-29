@@ -1,0 +1,20 @@
+[
+  {
+    "product_name": "VIVO",
+    "product_type": "Mobile",
+    "cost": "18,000",
+    "rating": "5"
+  },
+  {
+    "product_name": "Lenovo",
+    "product_type": "Laptop",
+    "cost": "56,000",
+    "rating": "4.3"
+  },
+  {
+    "product_name": "Samsung",
+    "product_type": "Tablet",
+    "cost": "42,000",
+    "rating": "3.3"
+  }
+]
